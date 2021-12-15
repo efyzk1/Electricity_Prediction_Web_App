@@ -1,0 +1,9 @@
+pandas
+streamlit
+xlrd<2.0
+plotly
+numpy
+pandas
+pystan==2.19.1.1 
+fbprophet
+seaborn

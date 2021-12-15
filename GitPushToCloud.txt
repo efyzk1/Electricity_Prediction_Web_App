@@ -1,0 +1,13 @@
+
+Codes to publish App:
+heroku login
+heroku create electrcity-forecast-app
+   git add .
+   git commit -m "Some message"
+   git push heroku master
+
+Codes to update/renew app:
+cd C:\Users\ASUS\Desktop\streamlit
+git add .
+git commit -m "Some message"
+git push heroku master

@@ -1,0 +1,8 @@
+Open powershell, then paste the following code:
+cd C:\Users\ASUS\Desktop\streamlit
+streamlit run main.py
+
+
+ignore the following commands:
+virtualenv streamlitenv
+streamlitenv\Scripts\activate
